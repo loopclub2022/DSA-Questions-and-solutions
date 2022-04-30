@@ -1,0 +1,74 @@
+# DSA
+<h1 >Binary tree questions</h1>
+-----------------------------------------------------------------
+- <h5> creation of binary tree</h5>
+- <h5> Inorder,preorder,postorder traversal using recursion</h5>
+- <h5>Inorder,preorder,postorder traversal using iteration method</h5>
+- <h5>level order traversal using queue data structure </h5>
+- <h5> Maximum depth| height of a binary tree </h5>
+- <h5>check of balanced binary tree </h5>
+- <h5>maximum path sum in a BT</h5>
+- <h5>Diameter of a BT</h5>
+- <h5>check if two tree are identical?</h5>
+- <h5>ZigZg traversal</h5>
+- <h5>Left view of binary tree</h5>
+- <h5>Right view of binary tree</h5>
+- <h5>Top view of binary tree</h5>
+- <h5>Vertical order of binary tree</h5>
+- <h5> check if tree is symmetric or not??</h5>
+- <h5>Bottom view</h5>
+- <h5>rootTonodepath in binary tree</h5>
+- <h5>Lowest common ancestor</h5>
+- <h5>Child sum property </h5>
+- <h5>Root To Node Path</h5>
+- <h5>Node At a distance K</h5>
+- <h5>Construct Unique Binary Tree from preorder and inorder</h5>
+---
+<h1>Bounded knapsack variations</h1>
+-------------------------------------------------------------------
+- <h5>0/1 knapsack problem using recursion</h5>
+- <h5>0/1 knapsack using memoization</h5>
+- <h5>0/1 knapsack using tabulation</h5>
+- <h5>subset sum problem using recursion</h5>
+- <h5>subset problem using tabulation</h5>
+- <h5>count total number of subset for a given sum</h5>
+- <h5>minimum subset sum difference</h5>
+---
+<h1>Unbounded Knapsack variations</h1>
+-------------------------------------------------------------------
+- <h5>unbounded knapsakc problem</h5>
+- <h5>rod cutting problem</h5>
+- <h5>total number of ways to make a coin</h5>
+- <h5>minimum coins needed to make a coin</h5>
+---
+<h1>Longest common subsequence variations</h1>
+-------------------------------------------------------------------
+- <h5>longest common subsequence using recursion</h5>
+- <h5>longest common subsequence using tabulation</h5>
+- <h5>print longest common subsequence</h5>
+- <h5>longest common substring</h5>
+- <h5>shortest common supersequence</h5>
+- <h5>minimum insertion and deletion needed to convert a string a to b </h5>
+- <h5>longest palindromic subsequence</h5>
+- <h5>minimum deletion to make a string palindrome</h5>
+- <h5>longest repeating subsequence</h5>
+---
+<h1>String coding questions and interview questions</h1>
+--------------------------------------------------------------------
+- <h5>Maximum subarray sum having a window size of k</h5>
+- <h5>first negative number in each window of size k</h5>
+- <h5>count total anagrams in a string having a complexity of n*(nlogn)</h5>
+- <h5>count anagrams in a string having a complexity of order n</h5>
+- <h5>find the maximum element from an array of each window of size k</h5>
+- <h5>longest subarray of a given target</h5>
+- <h5>longest substring with k unique characters</h5>
+- <h5>longest substring without repeating characters</h5>
+- <h5>minimum window substring,print the substring of minimum length of another given string</h5>
+---
+<h1>Greedy interview questions</h1>
+---------------------------------------------------------------------
+- <h5>Job sequence problem</h5>
+- <h5>Minimum platform needed for a train</h5>
+- <h5>fractional knapsack</h5>
+- <h5>N meetings in one room</h5>
+- <h5>Minimum coin change needed</h5>
